@@ -1,48 +1,42 @@
 //nombre foto descripcion precio
 
 {
-	"products": [
+	"fruits": [
 		{
 			"name": "Plátano",
 			"picture": "https://www.compraonline.grupoeroski.com/images/16624629.jpg",
 			"description": "Fruto del platanero, comestible, de forma alargada y algo curvada, pulpa de color blanco y piel lisa de color amarillo que se desprende con facilidad.",
 			"price": 2.59,
-			"category": "fruits"
 		},
 		{
 			"name": "Manzana",
 			"picture": "https://www.compraonline.grupoeroski.com/images/11155.jpg",
 			"description": "Fruto del manzano, comestible, de forma redondeada y algo hundida por los extremos, piel fina, de color verde, amarillo o rojo, carne blanca y jugosa, de sabor dulce o ácido, y semillas en forma de pepitas encerradas en una cápsula de cinco divisiones.",
 			"price": 1.39,
-			"category": "fruits"
 		},
 		{
 			"name": "Sandía",
 			"picture": "https://www.compraonline.grupoeroski.com/images/19625102.jpg",
 			"description": "Fruto comestible, esférico y de gran tamaño, con corteza verde muy dura y pulpa roja, muy dulce y jugosa, y llena de pepitas negras.",
 			"price": 2.99,
-			"category": "fruits"
 		},
 		{
 			"name": "Pera",
 			"picture": "https://www.compraonline.grupoeroski.com/images/17210.jpg",
 			"description": "Fruto del peral, comestible, de color verde, amarillo o encarnado, ancho por la parte de abajo y delgado por la de arriba (donde tiene el pedúnculo), de piel fina y pulpa blanca, muy jugosa, sabor dulce y, en el centro, unas semillas pequeñas de color negro.",
 			"price": 2.05,
-			"category": "fruits"
 		},
 		{
 			"name": "Naranja",
 			"picture": "https://www.compraonline.grupoeroski.com/images/12781654.jpg",
 			"description": "Fruto del naranjo, comestible, de forma redonda, cáscara gruesa y rugosa y pulpa dividida en gajos, agridulce y muy jugosa.",
 			"price": 1.33,
-			"category": "fruits"
 		},
 		{
 			"name": "Kiwi",
 			"picture": "https://www.compraonline.grupoeroski.com/images/12063319.jpg",
 			"description": "Fruto comestible, de forma ovalada, piel delgada y vellosa, de color verde pardusco y pulpa jugosa, de color verde brillante y con diminutas semillas dispuestas en torno a un corazón blanco.",
 			"price": 4.58,
-			"category": "fruits"
 		}
-	]
+	],
 }
