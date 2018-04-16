@@ -30,34 +30,59 @@ Buscador. -->
 	<script src="js/jquery-3.3.1.min.js"></script>
 </head>
 <body>
-
-	<div class="container-fluid">
-		<div class="row" id="header">
-			<div class="col-md-6">
-				<h1>ONLINE SHOP</h1>
-			</div>
-			<div class="col-md-5">
-				<img src="img/logo.png" class="img-fluid" alt="Responsive image" id="logo">
-			</div>
-		</div>
-	</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 offset-md-3">
-				<div class="main">
-					<!-- contenido -->
+	
+	<header>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-6">
+					<h1>ONLINE SHOP</h1>
+				</div>
+				<div class="col-md-5">
+					<img src="img/logo.png" class="img-fluid" alt="logo" id="logo">
 				</div>
 			</div>
 		</div>
+	</header>
+
+	<div class="container-fluid main float-left">
+		<section class="row">
+			<div class="col-md-2">
+				Producto 1
+			</div>
+			<div class="col-md-2">
+				Producto 2
+			</div>
+			<div class="col-md-2">
+				Producto 3
+			</div>
+
+		</section>
+		<div class="row">
+			<div class="col-md-2">
+				Producto 4
+			</div>
+			<div class="col-md-2">
+				Producto 5
+			</div>
+			<div class="col-md-2">
+				Producto 6
+			</div>
+		</div>
 	</div>
-	
 
-
-
-
+	<div class="col-md-4 float-right" id="carrito">
+		<div>
+			<h3>Shopping Cart</h3>
+			<img src="img/carrito.png" alt="carrito logo" id="carritoLogo">
+		</div>
+		<div>
+			<i class="fas fa-cart-plus"></i>
+		</div>
+	</div>
 
 
 	<script src="js/bootstrap.min.js"></script>
 	<script src="js/onlineShop.js"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
 </body>
 </html>

@@ -1,11 +1,15 @@
 body {
 	font-family: 'Open Sans';
-   padding-top: 50px;
-   padding-bottom: 50px;
+	padding-top: 50px;
    background: #DEDEDE;
 }
 
 #logo {
 	width: 50%;
 	height: 70%;
+}
+
+#carritoLogo {
+	width: 50px;
+	height: 50px;
 }
