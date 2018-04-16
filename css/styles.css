@@ -1,0 +1,11 @@
+body {
+	font-family: 'Open Sans';
+   padding-top: 50px;
+   padding-bottom: 50px;
+   background: #DEDEDE;
+}
+
+#logo {
+	width: 50%;
+	height: 70%;
+}
